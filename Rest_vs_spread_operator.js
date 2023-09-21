@@ -25,7 +25,7 @@ addstudent(jullybatch, "banti", "nana", "mahesh", "vishal");
 
 // spread operator
 
-// without spread operator
+
 
 const newbatch = [...aprilbatch];
 
@@ -33,4 +33,4 @@ aprilbatch.push('pravin')
 console.log(newbatch);
 console.log(aprilbatch);
 
-// with spread operator
+
